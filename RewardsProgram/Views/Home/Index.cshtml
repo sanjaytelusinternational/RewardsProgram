@@ -1,0 +1,24 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model IEnumerable<RewardsProgram.Models.ItemList>
+<div class="text-center">
+    <h1 class="display-4">Welcome Rewards Program</h1>
+
+</div>
+
+<div style="padding-top:50px;padding-left:400px;">
+    <table style="width:700px;" class="table table-bordered table-responsive table-hover">
+        <tr style="background-color:aliceblue"><th>Customer Id</th><th>Purchase Date</th><th>Total Price</th><th>Reward Points</th></tr>
+
+        @foreach (ItemList items in Model)
+        {
+            <tr>
+                <td>@items.CustomerId</td>
+                <td>@items.PurchaseDate</td>
+                <td>$@items.TotalUSPrice</td>
+                <td>@items.RewardPoints</td>
+            </tr>
+        }
+    </table>
+</div>

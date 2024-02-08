@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<PurchaseOrders>
+	<PurchaseOrder PurchaseOrderNumber="1" CustomerID="1001" OrderDate="2023-12-20">
+		<Items PurchaseOrderNumber="1">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="1">
+				<ProductName>Lawnmower</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>140</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA" PurchaseOrderNumber="1">
+				<ProductName>Baby Monitor</ProductName>
+				<Quantity>2</Quantity>
+				<USPrice>30</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="2" CustomerID="1001" OrderDate="2023-12-25">
+		<Items PurchaseOrderNumber="2">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="2">
+				<ProductName>Books</ProductName>
+				<Quantity>2</Quantity>
+				<USPrice>40</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA" PurchaseOrderNumber="2">
+				<ProductName>Laptop</ProductName>
+				<Quantity>2</Quantity>
+				<USPrice>50</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="3" CustomerID="1001" OrderDate="2023-12-28">
+		<Items PurchaseOrderNumber="3">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="3">
+				<ProductName>Mobile</ProductName>
+				<Quantity>5</Quantity>
+				<USPrice>10</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="4" CustomerID="1001" OrderDate="2024-01-20">
+		<Items PurchaseOrderNumber="4">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="4">
+				<ProductName>Lawnmower</ProductName>
+				<Quantity>2</Quantity>
+				<USPrice>140</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA" PurchaseOrderNumber="4">
+				<ProductName>Baby Monitor</ProductName>
+				<Quantity>2</Quantity>
+				<USPrice>30</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="5" CustomerID="1001" OrderDate="2024-01-25">
+		<Items PurchaseOrderNumber="5">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="5">
+				<ProductName>Books</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>40</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA" PurchaseOrderNumber="5">
+				<ProductName>Laptop</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>50</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="6" CustomerID="1001" OrderDate="2024-01-28">
+		<Items PurchaseOrderNumber="6">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="6">
+				<ProductName>Mobile</ProductName>
+				<Quantity>2</Quantity>
+				<USPrice>10</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="7" CustomerID="1001" OrderDate="2024-02-03">
+		<Items PurchaseOrderNumber="7">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="7">
+				<ProductName>Lawnmower</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>140</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA" PurchaseOrderNumber="7">
+				<ProductName>Baby Monitor</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>30</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="8" CustomerID="1001" OrderDate="2024-02-05">
+		<Items PurchaseOrderNumber="8">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="8">
+				<ProductName>Books</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>40</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA" PurchaseOrderNumber="8">
+				<ProductName>Laptop</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>50</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="9" CustomerID="1001" OrderDate="2024-02-08">
+		<Items PurchaseOrderNumber="9">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="9">
+				<ProductName>Mobile</ProductName>
+				<Quantity>10</Quantity>
+				<USPrice>10</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+
+
+
+	<PurchaseOrder PurchaseOrderNumber="10" CustomerID="1002" OrderDate="2023-12-20">
+		<Items PurchaseOrderNumber="10">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="10">
+				<ProductName>Lawnmower</ProductName>
+				<Quantity>10</Quantity>
+				<USPrice>140</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA" PurchaseOrderNumber="10">
+				<ProductName>Baby Monitor</ProductName>
+				<Quantity>20</Quantity>
+				<USPrice>30</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="11" CustomerID="1002" OrderDate="2023-12-25">
+		<Items PurchaseOrderNumber="11">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="11">
+				<ProductName>Books</ProductName>
+				<Quantity>20</Quantity>
+				<USPrice>40</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA" PurchaseOrderNumber="11">
+				<ProductName>Laptop</ProductName>
+				<Quantity>20</Quantity>
+				<USPrice>50</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="12" CustomerID="1002" OrderDate="2023-12-28">
+		<Items PurchaseOrderNumber="12">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="12">
+				<ProductName>Mobile</ProductName>
+				<Quantity>50</Quantity>
+				<USPrice>10</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="13" CustomerID="1002" OrderDate="2024-01-20">
+		<Items PurchaseOrderNumber="13">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="13">
+				<ProductName>Lawnmower</ProductName>
+				<Quantity>20</Quantity>
+				<USPrice>140</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA" PurchaseOrderNumber="13">
+				<ProductName>Baby Monitor</ProductName>
+				<Quantity>2</Quantity>
+				<USPrice>30</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="14" CustomerID="1002" OrderDate="2024-01-25">
+		<Items PurchaseOrderNumber="14">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="14">
+				<ProductName>Books</ProductName>
+				<Quantity>10</Quantity>
+				<USPrice>40</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA" PurchaseOrderNumber="14">
+				<ProductName>Laptop</ProductName>
+				<Quantity>10</Quantity>
+				<USPrice>50</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="15" CustomerID="1002" OrderDate="2024-01-28">
+		<Items PurchaseOrderNumber="15">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="15">
+				<ProductName>Mobile</ProductName>
+				<Quantity>20</Quantity>
+				<USPrice>10</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="16" CustomerID="1002" OrderDate="2024-02-03">
+		<Items>
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="16">
+				<ProductName>Lawnmower</ProductName>
+				<Quantity>10</Quantity>
+				<USPrice>140</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA">
+				<ProductName>Baby Monitor</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>30</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="17" CustomerID="1002" OrderDate="2024-02-05">
+		<Items PurchaseOrderNumber="17">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="17">
+				<ProductName>Books</ProductName>
+				<Quantity>10</Quantity>
+				<USPrice>40</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA" PurchaseOrderNumber="17">
+				<ProductName>Laptop</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>50</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="18" CustomerID="1002" OrderDate="2024-02-08">
+		<Items PurchaseOrderNumber="18">
+			<Item ItemNumber="872-AA" PurchaseOrderNumber="18">
+				<ProductName>Mobile</ProductName>
+				<Quantity>5</Quantity>
+				<USPrice>10</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+
+	<PurchaseOrder PurchaseOrderNumber="19" CustomerID="1003" OrderDate="2023-12-20">
+		<Items>
+			<Item ItemNumber="872-AA">
+				<ProductName>Lawnmower</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>140</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA">
+				<ProductName>Baby Monitor</ProductName>
+				<Quantity>2</Quantity>
+				<USPrice>30</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="20" CustomerID="1003" OrderDate="2023-12-25">
+		<Items>
+			<Item ItemNumber="872-AA">
+				<ProductName>Books</ProductName>
+				<Quantity>2</Quantity>
+				<USPrice>40</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA">
+				<ProductName>Laptop</ProductName>
+				<Quantity>2</Quantity>
+				<USPrice>50</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="21" CustomerID="1003" OrderDate="2023-12-28">
+		<Items>
+			<Item ItemNumber="872-AA">
+				<ProductName>Mobile</ProductName>
+				<Quantity>5</Quantity>
+				<USPrice>10</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="22" CustomerID="1003" OrderDate="2024-01-20">
+		<Items>
+			<Item ItemNumber="872-AA">
+				<ProductName>Lawnmower</ProductName>
+				<Quantity>2</Quantity>
+				<USPrice>140</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA">
+				<ProductName>Baby Monitor</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>30</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="23" CustomerID="1003" OrderDate="2024-01-25">
+		<Items>
+			<Item ItemNumber="872-AA">
+				<ProductName>Books</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>40</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA">
+				<ProductName>Laptop</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>50</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="24" CustomerID="1003" OrderDate="2024-01-28">
+		<Items>
+			<Item ItemNumber="872-AA">
+				<ProductName>Mobile</ProductName>
+				<Quantity>2</Quantity>
+				<USPrice>10</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="25" CustomerID="1003" OrderDate="2024-02-03">
+		<Items>
+			<Item ItemNumber="872-AA">
+				<ProductName>Lawnmower</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>140</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA">
+				<ProductName>Baby Monitor</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>30</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="26" CustomerID="1003" OrderDate="2024-02-05">
+		<Items>
+			<Item ItemNumber="872-AA">
+				<ProductName>Books</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>40</USPrice>
+			</Item>
+			<Item ItemNumber="926-AA">
+				<ProductName>Laptop</ProductName>
+				<Quantity>1</Quantity>
+				<USPrice>50</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+	<PurchaseOrder PurchaseOrderNumber="27" CustomerID="1003" OrderDate="2024-02-08">
+		<Items>
+			<Item ItemNumber="872-AA">
+				<ProductName>Mobile</ProductName>
+				<Quantity>3</Quantity>
+				<USPrice>10</USPrice>
+			</Item>
+		</Items>
+	</PurchaseOrder>
+</PurchaseOrders>
